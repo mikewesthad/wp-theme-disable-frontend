@@ -1,0 +1,17 @@
+{
+  "name": "mikewesthad/wp-theme-disable-frontend",
+  "description": "A theme to simply disable the front-end of a WordPress",
+  "authors": [
+    {
+      "name": "Michael Hadley",
+      "email": "michaelwesthadley@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/mikewesthad/wp-theme-disable-frontend"
+    }
+  ],
+  "type": "wordpress-theme"
+}
