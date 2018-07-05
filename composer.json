@@ -1,5 +1,6 @@
 {
   "name": "mikewesthad/wp-theme-disable-frontend",
+  "version": "1.0.0"
   "description": "A theme to simply disable the front-end of a WordPress",
   "authors": [
     {
