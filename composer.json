@@ -8,8 +8,5 @@
       "email": "michaelwesthadley@gmail.com"
     }
   ],
-  "require": {
-    "composer/installers": "v1.0.6"
-  },
   "type": "wordpress-theme"
 }
