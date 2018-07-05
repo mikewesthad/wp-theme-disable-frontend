@@ -8,11 +8,8 @@
       "email": "michaelwesthadley@gmail.com"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/mikewesthad/wp-theme-disable-frontend"
-    }
-  ],
+  "require": {
+    "composer/installers": "v1.0.6"
+  },
   "type": "wordpress-theme"
 }
